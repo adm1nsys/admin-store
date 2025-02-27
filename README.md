@@ -1,2 +1,2 @@
 # Admin-Store
-https://administrati0n.github.io/admin-store/
+https://adm1nsys.github.io/admin-store/
